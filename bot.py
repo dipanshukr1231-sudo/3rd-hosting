@@ -1,5 +1,4 @@
-#CREDIT - @CXXWIO
-#MAIN CHANNEL - @SHIVAA4A1 #
+#CREDIT - @EarningxzonYT
 
 import os
 import sys
